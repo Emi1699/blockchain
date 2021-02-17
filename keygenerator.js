@@ -1,0 +1,1 @@
+const EC = require('elliptic').EC;
